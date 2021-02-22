@@ -46,6 +46,9 @@
         <loc>https://webpack.js.org/migrate</loc>
     </url>
     <url>
+        <loc>https://webpack.js.org/migrating</loc>
+    </url>
+    <url>
         <loc>https://webpack.js.org/plugins</loc>
     </url>
     <url>
@@ -59,9 +62,6 @@
     </url>
     <url>
         <loc>https://webpack.js.org/writers-guide</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/migrating</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/api/cli</loc>
@@ -199,10 +199,10 @@
         <loc>https://webpack.js.org/configuration/node</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/configuration/other-options</loc>
+        <loc>https://webpack.js.org/configuration/optimization</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/configuration/optimization</loc>
+        <loc>https://webpack.js.org/configuration/other-options</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/configuration/output</loc>
@@ -331,10 +331,10 @@
         <loc>https://webpack.js.org/guides/integrations</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/guides/output-management</loc>
+        <loc>https://webpack.js.org/guides/lazy-loading</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/guides/lazy-loading</loc>
+        <loc>https://webpack.js.org/guides/output-management</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/guides/package-exports</loc>
@@ -430,10 +430,10 @@
         <loc>https://webpack.js.org/loaders/source-map-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/loaders/style-loader</loc>
+        <loc>https://webpack.js.org/loaders/stylus-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/loaders/stylus-loader</loc>
+        <loc>https://webpack.js.org/loaders/style-loader</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/loaders/thread-loader</loc>
@@ -463,10 +463,10 @@
         <loc>https://webpack.js.org/plugins/automatic-prefetch-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/plugins/closure-webpack-plugin</loc>
+        <loc>https://webpack.js.org/plugins/banner-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/plugins/banner-plugin</loc>
+        <loc>https://webpack.js.org/plugins/closure-webpack-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/plugins/commons-chunk-plugin</loc>
