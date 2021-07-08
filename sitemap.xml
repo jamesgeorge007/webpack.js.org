@@ -100,19 +100,19 @@
         <loc>https://webpack.js.org/api/parser</loc>
     </url>
     <url>
+        <loc>https://webpack.js.org/api/passing-a-config</loc>
+    </url>
+    <url>
         <loc>https://webpack.js.org/api/plugins</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/api/passing-a-config</loc>
+        <loc>https://webpack.js.org/api/module-variables</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/api/resolvers</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/api/stats</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/api/module-variables</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/blog/2020-12-08-roadmap-2021</loc>
@@ -143,9 +143,6 @@
     </url>
     <url>
         <loc>https://webpack.js.org/concepts/mode</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/concepts/module-federation</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/concepts/module-resolution</loc>
@@ -185,6 +182,9 @@
     </url>
     <url>
         <loc>https://webpack.js.org/configuration/experiments</loc>
+    </url>
+    <url>
+        <loc>https://webpack.js.org/concepts/module-federation</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/configuration/externals</loc>
@@ -274,6 +274,9 @@
         <loc>https://webpack.js.org/guides/author-libraries</loc>
     </url>
     <url>
+        <loc>https://webpack.js.org/guides/build-performance</loc>
+    </url>
+    <url>
         <loc>https://webpack.js.org/guides/caching</loc>
     </url>
     <url>
@@ -296,9 +299,6 @@
     </url>
     <url>
         <loc>https://webpack.js.org/guides/csp</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/guides/build-performance</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/guides/dependency-management</loc>
@@ -343,6 +343,9 @@
         <loc>https://webpack.js.org/guides/production</loc>
     </url>
     <url>
+        <loc>https://webpack.js.org/guides/production-build</loc>
+    </url>
+    <url>
         <loc>https://webpack.js.org/guides/progressive-web-application</loc>
     </url>
     <url>
@@ -362,9 +365,6 @@
     </url>
     <url>
         <loc>https://webpack.js.org/guides/web-workers</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/guides/production-build</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/guides/why-webpack</loc>
